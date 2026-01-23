@@ -24,3 +24,7 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+<p>
+  <img alt="hamster" src="https://cdn3.emoji.gg/emojis/11948-sadhamster.png" />
+</p>
