@@ -5,7 +5,7 @@
 ### 💫 About Me
 - 🔭 I’m currently working on **scientific projects**
 - 🌱 I’m currently learning **ASP .NET Core**
-- 💬 Ask me about **C#, Entity Framework or SQL**
+- 🎸 In my free time, I enjoy **playing electric guitar, video editing, and diving into .NET**
 
 ---
 
@@ -20,4 +20,6 @@
 - [Telegram](https://t.me/uchtenfrinen)
 - [LinkedIn](www.linkedin.com/in/marat-potyomkin-635521397)
 
-![Snake Isometric](https://githubusercontent.com)
+---
+
+<img alt="hamster" src="https://cdn3.emoji.gg/emojis/11948-sadhamster.png" />
