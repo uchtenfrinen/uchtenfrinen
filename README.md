@@ -21,5 +21,3 @@
 - [LinkedIn](www.linkedin.com/in/marat-potyomkin-635521397)
 
 ![Snake Isometric](https://githubusercontent.com)
-
-<img alt="hamster" src="https://cdn3.emoji.gg/emojis/11948-sadhamster.png" />
