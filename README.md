@@ -3,9 +3,9 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **scientific projects**
-- 🌱 I’m currently learning **ASP .NET Core**
-- 🎸 In my free time, I enjoy **playing electric guitar, video editing, and diving into .NET**
+- I’m currently working on **scientific projects**
+- I’m currently learning **ASP .NET Core**
+- In my free time, I enjoy **playing electric guitar, video editing, and diving into .NET**
 
 ---
 
