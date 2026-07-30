@@ -16,7 +16,7 @@
 
 ### 🏝 How to reach me
 
-- [Mail](mailto:wennuchtenfrinen@gmail.com)
+- Mail: wennuchtenfrinen@gmail.com
 - [Telegram](https://t.me/uchtenfrinen)
 - [LinkedIn](www.linkedin.com/in/marat-potyomkin-635521397)
 
